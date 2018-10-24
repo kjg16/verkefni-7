@@ -6,7 +6,7 @@
    */
 
   // fasti sem segir til um hve marga leiki eigi að spila
-  const GAMES_TO_PLAY = 3;
+  const GAMES_TO_PLAY = 10;
   let cancel = false;
 
   /**
